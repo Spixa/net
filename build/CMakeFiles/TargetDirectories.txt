@@ -1,0 +1,3 @@
+/home/spixa/dev/vm/build/CMakeFiles/vm.dir
+/home/spixa/dev/vm/build/CMakeFiles/edit_cache.dir
+/home/spixa/dev/vm/build/CMakeFiles/rebuild_cache.dir
